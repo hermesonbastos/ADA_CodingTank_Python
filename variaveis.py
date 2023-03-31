@@ -31,4 +31,4 @@ print( type(estudando) )
 # > Obtendo dados do usuário e salvando em variáveis
 
 linguagem = input('Qual é a linguagem de programação que você está estudando? ')
-print('A linguagem de programação que você está estudando é', linguagem)
+print('A linguagem de programação que você está estudando é', linguagem) 
